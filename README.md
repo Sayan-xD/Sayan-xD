@@ -1,9 +1,7 @@
 <!-- Premium GitHub Profile README for Sayan Bain -->
 
 <p align="center">
-  <a href="https://app.daily.dev/sayan_xd">
-    <img src="https://api.daily.dev/devcards/v2/073M6JZXO3IaYIT0SpLs5.png?type=wide&r=j8o" width="652" alt="Sayan Bain's Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/sayan_xd"><img src="https://api.daily.dev/devcards/v2/073M6JZXO3IaYIT0SpLs5.png?type=wide&r=v0d" width="652" alt="Sayan Bain's Dev Card"/></a>
 </p>
 
 ---
