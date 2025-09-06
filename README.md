@@ -23,22 +23,22 @@
 
 ## 🟢 Live Discord Status
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Presence"/>
+  <img src="https://lanyard.cnrad.dev/api/833509477754994698" alt="Discord Presence"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan-xD&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-xD&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
 
 ## 🎶 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wm5qhs64eoyf2lkj4ewql2tqmu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 ---
