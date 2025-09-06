@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Sayan-xD"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Sayan Bain's Dev Card"/></a>
+<a href="https://app.daily.dev/sayan_xd"><img src="https://api.daily.dev/devcards/v2/073M6JZXO3IaYIT0SpLs5.png?type=wide&r=j8o" width="652" alt="Sayan Bain's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sayan-xD&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Sayan-xD)
 ![GitHub followers](https://img.shields.io/github/followers/Sayan-xD?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Sayan-xD?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayan-xD.repoName) <img src="https://komarev.com/ghpvc/?username=Sayan-xD" alt="Sayan-xD" />
 
