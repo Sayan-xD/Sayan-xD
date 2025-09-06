@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I'm [Your Name] ✨</h1>
+<h1 align="center">✨ Hey, I'm Sayan Bain ✨</h1>
 
 <p align="center">
   <b>💻 Developer | 🎶 Music Enthusiast | 🚀 Bot Creator</b>
