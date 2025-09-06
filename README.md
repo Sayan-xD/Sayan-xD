@@ -1,20 +1,17 @@
 <h1 align="center">✨ Hey, I'm Sayan Bain ✨</h1>
 
 <p align="center">
-  <b>💻 Developer | 🎶 Music Enthusiast | 🚀 Bot Creator</b>
+  <b>💻 Developer of Flenzo Bot | 🎶 Music Enthusiast | 🚀 Discord Bot Creator</b>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://discord.gg/yourinvite">
+  <a href="https://discord.com/users/833509477754994698">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Sayan-xD">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -23,7 +20,13 @@
 
 ## 🟢 Live Discord Status
 <p align="center">
+  <!-- Lanyard (best for live presence) -->
   <img src="https://lanyard.cnrad.dev/api/833509477754994698" alt="Discord Presence"/>
+</p>
+
+<p align="center">
+  <!-- Backup method if Lanyard fails -->
+  <img src="https://discord.c99.nl/widget/theme-3/833509477754994698.png" alt="Discord Widget"/>
 </p>
 
 ---
@@ -54,4 +57,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></p>
+<p align="center">⭐️ From <a href="https://github.com/Sayan-xD">Sayan Bain</a></p>
